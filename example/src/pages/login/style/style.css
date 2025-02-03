@@ -1,0 +1,107 @@
+#holder{
+    min-height: 100%;
+    position:relative;
+}
+
+.center-block {
+/* position: absolute; */
+margin: auto;
+top: 10;
+right: 0;
+bottom: 0;
+left: 0;
+width: 28%;
+height: 43%;
+background-color: #fff;
+border-radius: 3px;
+/* display: inline; */
+}
+
+.text-color{
+    color: #ffffff;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+h1{
+    color : #ffffff;
+}
+
+.text-subtitle{
+    text-align: center;
+    color: #7a7976;
+    font-size: 22px;
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+
+.text-footer{
+    font-size: 14px;
+}
+
+footer{
+    background-color: #393434;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4%;
+    width: 100%;
+    overflow: hidden;
+}
+
+label{
+    color: #908f8e;
+    font-size: 14px;    
+}
+
+.text-small{
+    font-size: 12px;
+}
+
+.icon{
+    width : 50%;
+    height : 30%;
+    margin-top:35px;
+    margin-left:25px;
+}
+
+.text-large{
+    font-size: 23px;
+}
+
+.text-title{
+margin-top:10%;
+}
+
+.margin-top-10px{
+    margin-top: 10px;
+}
+
+.margin-top-10{
+    margin-top: 5%;
+}
+
+.text-input{
+    width : 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.login-button{
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width : 50%;
+    background-color: #fabc3b;
+    color : white;
+    left : 0;
+    right : 0;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top : 5%;
+}

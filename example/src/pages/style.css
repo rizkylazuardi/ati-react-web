@@ -1,0 +1,194 @@
+body { 
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
+#holder{
+    min-height: 100%;
+    position:relative;
+}
+
+.center-block {
+/* position: absolute; */
+margin: auto;
+top: 10;
+right: 0;
+bottom: 0;
+left: 0;
+width: 28%;
+height: 43%;
+background-color: #fff;
+border-radius: 3px;
+/* display: inline; */
+}
+
+.text-color{
+    color: #ffffff;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+h1{
+    color : #ffffff;
+}
+
+.text-subtitle{
+    text-align: center;
+    color: #7a7976;
+    font-size: 22px;
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+
+.text-footer{
+    font-size: 14px;
+}
+
+footer{
+    background-color: #393434;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4%;
+    width: 100%;
+    overflow: hidden;
+}
+
+label{
+    color: #908f8e;
+    font-size: 14px;    
+}
+
+.text-small{
+    font-size: 12px;
+}
+
+.icon{
+    width : 20px;
+    height : 20px;
+    margin-top:35px;
+    margin-left:5px;
+}
+
+.text-large{
+    font-size: 23px;
+}
+
+.text-title{
+margin-top:10%;
+}
+
+.margin-top-10px{
+    margin-top: 10px;
+}
+
+.margin-top-10{
+    margin-top: 5%;
+}
+
+.text-input{
+    width : 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.login-button{
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width : 50%;
+    background-color: #fabc3b;
+    color : white;
+    left : 0;
+    right : 0;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top : 5%;
+}
+
+.trigger {
+    font-size: 18px;
+    /* line-height: 8%; */
+    padding-top : 15px;
+    color : #ffffff;
+    cursor: pointer;
+    transition: color .3s;
+}
+
+.popOver{
+    width : 5%;
+    font-size: 25px;
+    line-height: 8%;
+    height: 8%;
+    padding-top : 12px;
+    /* top : 0;
+    bottom : 0;
+    left : 0;
+    right : 0; */
+    text-align: center;
+    cursor: pointer;
+}
+  
+.trigger:hover {
+    color: #e6e6e6;
+}
+  
+.logo {
+    height: 32px;
+    background: rgba(255,255,255,.2);
+    margin: 16px;
+}
+
+.header-style{
+    background: #1890ff;
+    height: 8%;
+    padding : 0 !important;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.white{
+    color:#ffffff;
+}
+
+.header-background-color{
+    background-color : #3F7FBF;
+}
+
+.header-shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.page_name{
+    align:left;
+    font-weight: bold;
+    color:#87A8B6;
+}
+
+table{
+    padding:0 !important;
+}
+
+.icon-link{
+    color:#1890ff
+}
+.icon-delete{
+    color:red
+}
+  

@@ -1,0 +1,11 @@
+{
+    "login.title":"Login to your Account",
+    "greeting.message":"Welcome back, Orang Ganteng",
+    "login.time.message":"You have login from ",
+    "system.header":"System Config Page",
+    "system.input.groupname":"Group Name",
+    "system.input.createdtime":"Created Time",
+    "system.input.updatedtime":"Updated Time",
+    "system.input.name":"Name",
+    "system.input.value":"Value"
+}

@@ -1,0 +1,69 @@
+.sysconfig-row{
+    background-color: white !important;
+}
+
+.sysconfig-row:hover{
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    padding: 4px 11px;
+}
+
+.ant-table-thead th{
+    background-color: #F3F3F3 !important;
+}
+
+.search-content{
+    padding-top:5%;
+}
+
+.form-content{
+    padding-top:5%;
+}
+
+.form-content .left{
+    padding-left: 10%;
+}
+
+.table-content{
+    padding:1.5% 0;
+}
+
+.ant-layout-content{
+    background-color: white !important;
+}
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 6px 50px;
+    border: 0px solid #b38a24;
+    border-radius: 8px;
+    background: #ffe33b;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffe33b), to(#ffc533));
+    background: -moz-linear-gradient(top, #ffe33b, #ffc533);
+    background: linear-gradient(to bottom, #ffe33b, #ffc533);
+    -webkit-box-shadow: #c7c7c7 0px 7px 15px 0px;
+    -moz-box-shadow: #c7c7c7 0px 7px 15px 0px;
+    box-shadow: #c7c7c7 0px 7px 15px 0px;
+    font: normal normal bold 20px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+.savebutton:hover,
+.savebutton:focus {
+    border: 0px solid #ffc533;
+    background: #ffff47;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffff47), to(#ffec3d));
+    background: -moz-linear-gradient(top, #ffff47, #ffec3d);
+    background: linear-gradient(to bottom, #ffff47, #ffec3d);
+    color: #ffffff;
+    text-decoration: none;
+}
+.savebutton:active {
+    background: #b38a24;
+    background: -webkit-gradient(linear, left top, left bottom, from(#b38a24), to(#ffc533));
+    background: -moz-linear-gradient(top, #b38a24, #ffc533);
+    background: linear-gradient(to bottom, #b38a24, #ffc533);
+}
+

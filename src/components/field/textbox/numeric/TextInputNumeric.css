@@ -1,0 +1,11 @@
+.text-input-numeric
+{
+    width : 25% !important;
+    background-color: darkgrey !important;
+}
+
+.text-input-numeric-custom
+{
+    width : 15% !important;
+    background-color: white !important;
+}
