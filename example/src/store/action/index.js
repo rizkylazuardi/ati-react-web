@@ -1,0 +1,10 @@
+export const CHANGE_SELECTED = "change_selected"; 
+export const BARANG_SELECTED = "barang_selected"; 
+export const ALERT_TOGGLE = "alert_toggle";
+export const TAB_CHANGE = "tab_change";
+export const STEP_CHANGE = "step_change";
+export const LOAD_MORE = "load_more";
+export const LOADING_MORE_TOGGLE = "loading_more_toggle";
+export const LOADING_INFINITE_TOGGLE = "loading_infinite_toggle";
+export const LOAD_INFINITE = "load_infinite";
+export const UPDATE_ABILITY = "update_ability";

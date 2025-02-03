@@ -1,0 +1,11 @@
+{
+    "login.title":"Masuk ke Akun anda",
+    "greeting.message":"Selamat datang, Orang Ganteng",
+    "login.time.message":"Anda telah login dari ",
+    "system.header":"Halaman Konfigurasi Sistem",
+    "system.input.groupname":"Nama Group",
+    "system.input.createdtime":"Tanggal Dibuat",
+    "system.input.updatedtime":"Tanggal Diubah",
+    "system.input.name":"Nama",
+    "system.input.value":"Nilai"
+}

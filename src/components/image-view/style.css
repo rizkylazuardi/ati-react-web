@@ -1,0 +1,35 @@
+/* .image-card > .ant-card-body {
+    padding: 0px;
+} */
+.image-card {
+    border-radius: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.image-card > .ant-card-cover > img {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.image-card > .ant-card-actions {
+    border-radius: 0px 0px 10px 10px;
+}
+
+.image-card > .ant-card-actions {
+    background-color: #fff;
+}
+
+.image-card > .ant-card-actions > li > span {
+    width: 100%;
+    height: 100%;
+}
+
+.default-button-action {
+    width: 85%;
+    height: 13vh;
+    color: #26a69a;
+    border: 1px solid #26a69a;
+    border-radius: 8px;
+    font-weight: 600;
+}

@@ -1,0 +1,1 @@
+export const UPDATE_CSRF = '#app/update_csrf';

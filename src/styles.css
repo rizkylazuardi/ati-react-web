@@ -1,0 +1,25 @@
+/* add css styles here (optional) */
+
+.test {
+  display: inline-block;
+  margin: 2em auto;
+  border: 2px solid #000;
+  font-size: 2em;
+}
+
+.pocket-image > .ant-card-body {
+  padding: 0px;
+}
+
+.pocket-button-action {
+  width: 85%;
+  height: 9vh !important;
+  color: #26a69a;
+  border: 1px solid #26a69a;
+  border-radius: 6px !important;
+  font-weight: 500;
+}
+
+.pocket-button-action > * {
+  font-size: 0.8em !important;
+}
